@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(Algoritmo_De_Ordenamiento_Rapido__Quick_Sort_)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Algoritmo_De_Ordenamiento_Rapido__Quick_Sort_ main.cpp)

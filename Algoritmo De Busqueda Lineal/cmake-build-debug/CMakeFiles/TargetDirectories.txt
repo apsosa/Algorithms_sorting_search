@@ -1,0 +1,3 @@
+C:/Users/Patricio/CLionProjects/Algoritmo De Busqueda Lineal/cmake-build-debug/CMakeFiles/Algoritmo_De_Busqueda_Lineal.dir
+C:/Users/Patricio/CLionProjects/Algoritmo De Busqueda Lineal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patricio/CLionProjects/Algoritmo De Busqueda Lineal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

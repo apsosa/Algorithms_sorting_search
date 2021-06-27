@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patricio/CLionProjects/Algoritmo sobre String (Knuth Morris Pratt)/main.cpp
+iostream
+-
+string
+-
+vector
+-
+

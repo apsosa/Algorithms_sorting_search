@@ -1,0 +1,3 @@
+C:/Users/Patricio/CLionProjects/Algoritmo The Welfare Crook (TWF)/cmake-build-debug/CMakeFiles/Algoritmo_The_Welfare_Crook__TWF_.dir
+C:/Users/Patricio/CLionProjects/Algoritmo The Welfare Crook (TWF)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patricio/CLionProjects/Algoritmo The Welfare Crook (TWF)/cmake-build-debug/CMakeFiles/rebuild_cache.dir

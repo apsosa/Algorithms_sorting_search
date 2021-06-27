@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/patricio/Escritorio/ALGORITMOS/Algoritmo De Ordenamiento Rapido (Quick Sort)/main.cpp
+iostream
+-
+vector
+-
+

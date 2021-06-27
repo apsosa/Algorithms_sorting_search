@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patricio/CLionProjects/Algoritmos sobre Strings (Busqueda Lineal de un Patron)/main.cpp
+iostream
+-
+string
+-
+

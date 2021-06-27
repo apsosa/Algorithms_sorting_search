@@ -1,0 +1,3 @@
+C:/Users/Patricio/CLionProjects/Algoritmos de Busqueda Binaria/cmake-build-debug/CMakeFiles/Algoritmos_de_Busqueda_Binaria.dir
+C:/Users/Patricio/CLionProjects/Algoritmos de Busqueda Binaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patricio/CLionProjects/Algoritmos de Busqueda Binaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir

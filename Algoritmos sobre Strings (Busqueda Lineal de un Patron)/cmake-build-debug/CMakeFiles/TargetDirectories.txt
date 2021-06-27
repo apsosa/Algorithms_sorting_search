@@ -1,0 +1,3 @@
+C:/Users/Patricio/CLionProjects/Algoritmos sobre Strings (Busqueda Lineal de un Patron)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Patricio/CLionProjects/Algoritmos sobre Strings (Busqueda Lineal de un Patron)/cmake-build-debug/CMakeFiles/Algoritmos_sobre_Strings__Busqueda_Lineal_de_un_Patron_.dir
+C:/Users/Patricio/CLionProjects/Algoritmos sobre Strings (Busqueda Lineal de un Patron)/cmake-build-debug/CMakeFiles/edit_cache.dir

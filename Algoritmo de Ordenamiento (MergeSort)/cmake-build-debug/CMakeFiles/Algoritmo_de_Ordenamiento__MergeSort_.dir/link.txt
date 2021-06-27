@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Algoritmo_de_Ordenamiento__MergeSort_.dir/main.cpp.o  -o Algoritmo_de_Ordenamiento__MergeSort_ 

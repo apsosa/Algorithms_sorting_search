@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patricio/CLionProjects/Algoritmo de Ordenamiento (Burbujeo,Bubble Sort,Bulbasaur)/main.cpp
+iostream
+-
+vector
+-
+

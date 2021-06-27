@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Algoritmo_sobre_String__Knuth_Morris_Pratt_)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Algoritmo_sobre_String__Knuth_Morris_Pratt_ main.cpp)

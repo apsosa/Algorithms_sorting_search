@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(Algoritmos_sobre_Strings__Busqueda_Lineal_de_un_Patron_)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Algoritmos_sobre_Strings__Busqueda_Lineal_de_un_Patron_ main.cpp)

@@ -1,0 +1,3 @@
+/home/patricio/Escritorio/ALGORITMOS/Algoritmo De Ordenamiento Rapido (Quick Sort)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/patricio/Escritorio/ALGORITMOS/Algoritmo De Ordenamiento Rapido (Quick Sort)/cmake-build-debug/CMakeFiles/Algoritmo_De_Ordenamiento_Rapido__Quick_Sort_.dir
+/home/patricio/Escritorio/ALGORITMOS/Algoritmo De Ordenamiento Rapido (Quick Sort)/cmake-build-debug/CMakeFiles/edit_cache.dir
